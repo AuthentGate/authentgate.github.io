@@ -73,7 +73,7 @@ export const Hero = () => {
                                 prompt: <span className="text-green-600">'Hello, AI!'</span>
                             </div>
                             <div className="text-neutral-700">
-                                {'}'}})
+                                test
                             </div>
                         </div>
                     </div>
